@@ -9,7 +9,7 @@ from selenium.common.exceptions import NoSuchElementException
 writer = csv.writer(open("result_file.csv", 'w'))
 writer.writerow(['type', 'area', 'floor', 'price', 'url'])
 
-driver = webdriver.Chrome('/Users\jojo7\Desktop\Scrapy\Chromedriver')
+driver = webdriver.Chrome('/Users\jojo7\Documents\GitHub\scrapy_test\chromedriver')
 driver.maximize_window()
 sleep(0.5)
 
@@ -40,43 +40,3 @@ while True:
         break
 
 
-# sleep(0.5)
-
-
-# profiles = driver.find_elements_by_xpath('//*[@class="r"]/a[1]')
-# profiles = [profile.get_attribute('href') for profile in profiles]
-# for profile in profiles:
-#     driver.get(profile)
-#     sleep(5)
-
-#     sel = Selector(text=driver.page_source)
-
-#     name = sel.xpath('//title/text()').extract_first().split(' | ')[0]
-#     job_title = sel.xpath('//h2/text()').extract_first().strip()
-#     schools = ', '.join(sel.xpath('//*[contains(@class, "pv-entity__school-name")]/text()').extract())
-#     location = sel.xpath('//*[@class="t-16 t-black t-normal inline-block"]/text()').extract_first().strip()
-#     ln_url = driver.current_url
-
-#     print('\n')
-#     print(name)
-#     print(job_title)
-#     print(schools)
-#     print(location)
-#     print(ln_url)
-#     print('\n')
-
-#     try:
-#         driver.find_element_by_xpath('//*[text()="More…"]').click()
-#         sleep(1)
-
-#         driver.find_element_by_xpath('//*[text()="Connect"]').click()
-#         sleep(1)
-
-#         driver.find_element_by_xpath('//*[text()="Send now"]').click()
-#         sleep(1)
-#     except:
-#         pass
-
-#     writer.writerow([name, job_title, schools, location, ln_url])
-
-# driver.quit()
