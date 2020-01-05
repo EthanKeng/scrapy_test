@@ -7,7 +7,7 @@ from selenium.common.exceptions import NoSuchElementException
 
 
 writer = csv.writer(open("result_file.csv", 'w'))
-writer.writerow(['type', 'area', 'floor', 'price', 'url'])
+writer.writerow(['type', 'area', 'floor', 'price', 'address', 'url'])
 
 driver = webdriver.Chrome('/Users\jojo7\Documents\GitHub\scrapy_test\chromedriver')
 driver.maximize_window()
@@ -29,8 +29,8 @@ while True:
             floor = contents.xpath(".//p[1]/text()[3]").get().strip()
             price = contents.xpath('.//*[@class="price"]/i/text()').get() 
             url = contents.xpath('.//h3/a/@href').get()
-            writer.writerow([type, area, floor, price, url])
-            
+            address = contents.xpath('.//li[2]/p[2]/em/text()').get().strip()
+            writer.writerow([type, area, floor, price, address, url])
         driver.find_element_by_xpath('//*[@class= "pageNext"]').click()
         sleep(3)
 
