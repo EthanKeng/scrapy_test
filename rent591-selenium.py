@@ -6,6 +6,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 
 
+
 writer = csv.writer(open("result_file.csv", 'w'))
 writer.writerow(['type', 'area', 'floor', 'price', 'address', 'url'])
 
