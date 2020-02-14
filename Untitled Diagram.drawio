@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-14T07:41:34.074Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="v_5cw6pF8P5hoolQfi5W" version="12.7.0" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-02-14T08:25:22.904Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="tI6hN4Nq_1218JTyMP7P" version="12.7.0" type="github" pages="4">
   <diagram id="Wp4yuptwY3wIeYe733zw" name="BC27土地契約覚書">
     <mxGraphModel dx="782" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -230,11 +230,122 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ejO7ZNCvD3ukqZOSyBz4" name="Page-4">
-    <mxGraphModel dx="782" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="ejO7ZNCvD3ukqZOSyBz4" name="BC27_Principal Approval">
+    <mxGraphModel dx="920" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="A6Ks-Vfohcc06DCEBgYB-0"/>
         <mxCell id="A6Ks-Vfohcc06DCEBgYB-1" parent="A6Ks-Vfohcc06DCEBgYB-0"/>
+        <mxCell id="bcFx4GBdsSPqpS9iQmqI-11" value="売主A" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;labelBackgroundColor=#FFFF99;" vertex="1" parent="A6Ks-Vfohcc06DCEBgYB-1">
+          <mxGeometry x="220" y="380" width="200" height="187.17" as="geometry"/>
+        </mxCell>
+        <mxCell id="bcFx4GBdsSPqpS9iQmqI-7" value="売主B" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;labelBackgroundColor=#FFFF99;" vertex="1" parent="A6Ks-Vfohcc06DCEBgYB-1">
+          <mxGeometry x="450" y="370" width="200" height="187.17" as="geometry"/>
+        </mxCell>
+        <mxCell id="A6Ks-Vfohcc06DCEBgYB-4" value="HAP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="A6Ks-Vfohcc06DCEBgYB-1">
+          <mxGeometry x="760" y="30" width="50" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="A6Ks-Vfohcc06DCEBgYB-5" value="50%&lt;br&gt;USD 11.6M" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="A6Ks-Vfohcc06DCEBgYB-1" source="A6Ks-Vfohcc06DCEBgYB-4" target="A6Ks-Vfohcc06DCEBgYB-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="150" as="sourcePoint"/>
+            <mxPoint x="845" y="110" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A6Ks-Vfohcc06DCEBgYB-6" value="VN-2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="A6Ks-Vfohcc06DCEBgYB-1">
+          <mxGeometry x="820" y="170" width="50" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="SYITZh6_fyyIGgCwmZHc-0" value="その他" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="A6Ks-Vfohcc06DCEBgYB-1">
+          <mxGeometry x="900" y="30" width="50" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="SYITZh6_fyyIGgCwmZHc-1" value="50%&lt;br&gt;USD 11.6M" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="A6Ks-Vfohcc06DCEBgYB-1" source="SYITZh6_fyyIGgCwmZHc-0" target="A6Ks-Vfohcc06DCEBgYB-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="855" y="90" as="sourcePoint"/>
+            <mxPoint x="855" y="150" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPnOsOk_GrwAUFt6FH5t-0" value="Hold Co" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="A6Ks-Vfohcc06DCEBgYB-1">
+          <mxGeometry x="750" y="340" width="50" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="bPnOsOk_GrwAUFt6FH5t-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flags-37/300/japan-national-world-128.png" vertex="1" parent="A6Ks-Vfohcc06DCEBgYB-1">
+          <mxGeometry x="910" y="105" width="50" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="bPnOsOk_GrwAUFt6FH5t-4" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="A6Ks-Vfohcc06DCEBgYB-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="725" y="151" as="sourcePoint"/>
+            <mxPoint x="995.6666870117188" y="151" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPnOsOk_GrwAUFt6FH5t-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;image=https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Singapore_flat.png;imageBackground=none;imageBorder=#000000;" vertex="1" parent="A6Ks-Vfohcc06DCEBgYB-1">
+          <mxGeometry x="915" y="163" width="40" height="27" as="geometry"/>
+        </mxCell>
+        <mxCell id="bPnOsOk_GrwAUFt6FH5t-9" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="A6Ks-Vfohcc06DCEBgYB-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="230" as="sourcePoint"/>
+            <mxPoint x="990.6666870117188" y="230" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPnOsOk_GrwAUFt6FH5t-10" value="80%&lt;br&gt;USD 22.6M" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="A6Ks-Vfohcc06DCEBgYB-1" source="A6Ks-Vfohcc06DCEBgYB-6" target="bPnOsOk_GrwAUFt6FH5t-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="240" as="sourcePoint"/>
+            <mxPoint x="903.75" y="305" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sRbBSXOT0Q6TaIx9QvP1-0" value="Hold Co" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="A6Ks-Vfohcc06DCEBgYB-1">
+          <mxGeometry x="360" y="680" width="100" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="sRbBSXOT0Q6TaIx9QvP1-1" value="100%&lt;br&gt;USD 28.3M" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="A6Ks-Vfohcc06DCEBgYB-1" target="sRbBSXOT0Q6TaIx9QvP1-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="775" y="389" as="sourcePoint"/>
+            <mxPoint x="480" y="724" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="775" y="599"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bcFx4GBdsSPqpS9iQmqI-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ensign-11/512/280_Ensign_Flag_Nation_vietnam-128.png" vertex="1" parent="A6Ks-Vfohcc06DCEBgYB-1">
+          <mxGeometry x="915" y="260" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="bcFx4GBdsSPqpS9iQmqI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="A6Ks-Vfohcc06DCEBgYB-1" source="bcFx4GBdsSPqpS9iQmqI-2" target="bcFx4GBdsSPqpS9iQmqI-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="bcFx4GBdsSPqpS9iQmqI-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="A6Ks-Vfohcc06DCEBgYB-1" source="bcFx4GBdsSPqpS9iQmqI-2" target="bcFx4GBdsSPqpS9iQmqI-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="bcFx4GBdsSPqpS9iQmqI-2" value="BC27&lt;br&gt;26 ha" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="A6Ks-Vfohcc06DCEBgYB-1">
+          <mxGeometry x="370" y="260" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="bcFx4GBdsSPqpS9iQmqI-5" value="ばらばらで計：&lt;br&gt;8 ha" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="A6Ks-Vfohcc06DCEBgYB-1">
+          <mxGeometry x="470" y="390" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="bcFx4GBdsSPqpS9iQmqI-3" value="ばらばらで計：&lt;br&gt;18 ha" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="A6Ks-Vfohcc06DCEBgYB-1">
+          <mxGeometry x="250" y="390" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="bcFx4GBdsSPqpS9iQmqI-8" value="" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="A6Ks-Vfohcc06DCEBgYB-1">
+          <mxGeometry x="560" y="490" width="20" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="bcFx4GBdsSPqpS9iQmqI-9" value="Ms. Mai &amp;amp; Nominees" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="A6Ks-Vfohcc06DCEBgYB-1">
+          <mxGeometry x="540" y="480" width="20" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="nsRcYXiihCskzCQZcaVa-0" value="AN GIA" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="A6Ks-Vfohcc06DCEBgYB-1">
+          <mxGeometry x="905" y="340" width="50" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="nsRcYXiihCskzCQZcaVa-1" value="20%&lt;br&gt;USD 5.7M" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="A6Ks-Vfohcc06DCEBgYB-1" source="nsRcYXiihCskzCQZcaVa-0" target="bPnOsOk_GrwAUFt6FH5t-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="892.5" y="275" as="sourcePoint"/>
+            <mxPoint x="850" y="390" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZHPk-c0xX-8uXCCwVkc5-1" value="契約_乙" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;fontSize=17;" edge="1" parent="A6Ks-Vfohcc06DCEBgYB-1" source="sRbBSXOT0Q6TaIx9QvP1-0" target="bcFx4GBdsSPqpS9iQmqI-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="355.23685261400715" y="574.1407652620255" as="sourcePoint"/>
+            <mxPoint x="390" y="700" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZHPk-c0xX-8uXCCwVkc5-2" value="契約_甲" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontColor=#CC0066;entryX=0.45;entryY=1;entryDx=0;entryDy=0;exitX=0.016;exitY=0.127;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;fontSize=17;" edge="1" parent="A6Ks-Vfohcc06DCEBgYB-1" source="sRbBSXOT0Q6TaIx9QvP1-0" target="bcFx4GBdsSPqpS9iQmqI-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="690" as="sourcePoint"/>
+            <mxPoint x="560" y="567.1699999999998" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
