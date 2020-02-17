@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-17T01:08:04.026Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="uSNPPy6AJ1De4ykPOXwP" version="12.7.0" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-02-17T01:09:51.068Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="nSVOnexl4P_h42fAZmuY" version="12.7.0" type="github" pages="4">
   <diagram id="ejO7ZNCvD3ukqZOSyBz4" name="BC27_Principal Approval">
     <mxGraphModel dx="835" dy="652" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
@@ -52,7 +52,7 @@
             <mxPoint x="1050.6666870117188" y="292" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bPnOsOk_GrwAUFt6FH5t-10" value="USD 22.6M（80%）&lt;br&gt;普通株割合（49.995%）" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="A6Ks-Vfohcc06DCEBgYB-1" source="A6Ks-Vfohcc06DCEBgYB-6" target="bPnOsOk_GrwAUFt6FH5t-0" edge="1">
+        <mxCell id="bPnOsOk_GrwAUFt6FH5t-10" value="USD 22.6M（80%）&lt;br&gt;普通株割合（49.99%）" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="A6Ks-Vfohcc06DCEBgYB-1" source="A6Ks-Vfohcc06DCEBgYB-6" target="bPnOsOk_GrwAUFt6FH5t-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="995" y="442" as="sourcePoint"/>
             <mxPoint x="938.75" y="507" as="targetPoint"/>
