@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-17T01:12:31.524Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="3ga1plPr4lC0XwvUq22L" version="12.7.0" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-02-17T01:12:50.302Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="QbY2VW_zO_2YrA_UqMa-" version="12.7.0" type="github" pages="4">
   <diagram id="ejO7ZNCvD3ukqZOSyBz4" name="BC27_Principal Approval">
     <mxGraphModel dx="835" dy="652" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
@@ -109,9 +109,9 @@
             <mxPoint x="390" y="700" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZHPk-c0xX-8uXCCwVkc5-2" value="契約_A" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontColor=#CC0066;entryX=0.45;entryY=1;entryDx=0;entryDy=0;exitX=0.016;exitY=0.127;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;fontSize=17;" parent="A6Ks-Vfohcc06DCEBgYB-1" source="sRbBSXOT0Q6TaIx9QvP1-0" target="bcFx4GBdsSPqpS9iQmqI-11" edge="1">
+        <mxCell id="ZHPk-c0xX-8uXCCwVkc5-2" value="契約_A" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontColor=#CC0066;entryX=0.45;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=17;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="A6Ks-Vfohcc06DCEBgYB-1" source="sRbBSXOT0Q6TaIx9QvP1-0" target="bcFx4GBdsSPqpS9iQmqI-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="690" as="sourcePoint"/>
+            <mxPoint x="362" y="677" as="sourcePoint"/>
             <mxPoint x="560" y="567.1699999999998" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
@@ -172,65 +172,65 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GELSztT37-1Q9_rCBL0_" name="ANGIA株一部売却">
-        <mxGraphModel dx="782" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-            <root>
-                <mxCell id="ocOZdsiFO2pefSpMSgbL-0"/>
-                <mxCell id="ocOZdsiFO2pefSpMSgbL-1" parent="ocOZdsiFO2pefSpMSgbL-0"/>
-                <mxCell id="ocOZdsiFO2pefSpMSgbL-4" value="（上場日）&lt;br&gt;2020/1/9&lt;br&gt;USD174,808" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ocOZdsiFO2pefSpMSgbL-1" source="ocOZdsiFO2pefSpMSgbL-2" target="ocOZdsiFO2pefSpMSgbL-3" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="320" y="270"/>
-                            <mxPoint x="320" y="270"/>
-                          </Array>
-                      </mxGeometry>
-                  </mxCell>
-                <mxCell id="ocOZdsiFO2pefSpMSgbL-2" value="Buyer&lt;br&gt;Mr.Trung" style="rounded=1;whiteSpace=wrap;html=1;" parent="ocOZdsiFO2pefSpMSgbL-1" vertex="1">
-                    <mxGeometry x="160" y="240" width="70" height="60" as="geometry"/>
-                  </mxCell>
-                <mxCell id="oY7sUBX3qmHm-3eBmSkk-9" value="&lt;font color=&quot;#ff0000&quot;&gt;Cash*1：&lt;/font&gt;&amp;nbsp;&lt;br&gt;USD 166,722&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ocOZdsiFO2pefSpMSgbL-1" source="ocOZdsiFO2pefSpMSgbL-3" target="oY7sUBX3qmHm-3eBmSkk-8" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                  </mxCell>
-                <mxCell id="ocOZdsiFO2pefSpMSgbL-3" value="H-VN1" style="rounded=1;whiteSpace=wrap;html=1;" parent="ocOZdsiFO2pefSpMSgbL-1" vertex="1">
-                    <mxGeometry x="400" y="240" width="70" height="60" as="geometry"/>
-                  </mxCell>
-                <mxCell id="oY7sUBX3qmHm-3eBmSkk-8" value="HAP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="ocOZdsiFO2pefSpMSgbL-1" vertex="1">
-                    <mxGeometry x="590" y="240" width="70" height="60" as="geometry"/>
-                  </mxCell>
-                <mxCell id="oY7sUBX3qmHm-3eBmSkk-12" value="Creed" style="rounded=1;whiteSpace=wrap;html=1;" parent="ocOZdsiFO2pefSpMSgbL-1" vertex="1">
-                    <mxGeometry x="590" y="140" width="70" height="60" as="geometry"/>
-                  </mxCell>
-                <mxCell id="oY7sUBX3qmHm-3eBmSkk-0" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" parent="ocOZdsiFO2pefSpMSgbL-1" source="ocOZdsiFO2pefSpMSgbL-3" target="oY7sUBX3qmHm-3eBmSkk-1" edge="1">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="160" y="490" as="sourcePoint"/>
-                        <mxPoint x="195" y="100" as="targetPoint"/>
-                        <Array as="points">
-                            <mxPoint x="435" y="125"/>
-                          </Array>
-                      </mxGeometry>
-                  </mxCell>
-                <mxCell id="oY7sUBX3qmHm-3eBmSkk-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ocOZdsiFO2pefSpMSgbL-1" source="oY7sUBX3qmHm-3eBmSkk-1" target="ocOZdsiFO2pefSpMSgbL-2" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="180" y="125" as="targetPoint"/>
-                      </mxGeometry>
-                  </mxCell>
-                <mxCell id="oY7sUBX3qmHm-3eBmSkk-1" value="ANGIA株&lt;br&gt;（150,000株）&lt;br&gt;簿価 USD 134,550" style="shape=tape;whiteSpace=wrap;html=1;size=0.1538459190955529;" parent="ocOZdsiFO2pefSpMSgbL-1" vertex="1">
-                    <mxGeometry x="260" y="80" width="110" height="90" as="geometry"/>
-                  </mxCell>
-                <mxCell id="oY7sUBX3qmHm-3eBmSkk-7" value="想定売却利益：&lt;br&gt;USD 40,433" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="ocOZdsiFO2pefSpMSgbL-1" vertex="1">
-                    <mxGeometry x="400" y="300" width="110" height="60" as="geometry"/>
-                  </mxCell>
-                <mxCell id="oY7sUBX3qmHm-3eBmSkk-14" value="AM_FEE(20%)&lt;br&gt;USD 8086" style="endArrow=classic;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="ocOZdsiFO2pefSpMSgbL-1" source="ocOZdsiFO2pefSpMSgbL-3" target="oY7sUBX3qmHm-3eBmSkk-12" edge="1">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="160" y="430" as="sourcePoint"/>
-                        <mxPoint x="210" y="380" as="targetPoint"/>
-                        <Array as="points">
-                            <mxPoint x="470" y="170"/>
-                          </Array>
-                      </mxGeometry>
-                  </mxCell>
-              </root>
-          </mxGraphModel>
-      </diagram>
+    <mxGraphModel dx="710" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="ocOZdsiFO2pefSpMSgbL-0"/>
+        <mxCell id="ocOZdsiFO2pefSpMSgbL-1" parent="ocOZdsiFO2pefSpMSgbL-0"/>
+        <mxCell id="ocOZdsiFO2pefSpMSgbL-4" value="（上場日）&lt;br&gt;2020/1/9&lt;br&gt;USD174,808" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ocOZdsiFO2pefSpMSgbL-1" source="ocOZdsiFO2pefSpMSgbL-2" target="ocOZdsiFO2pefSpMSgbL-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="270"/>
+              <mxPoint x="320" y="270"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ocOZdsiFO2pefSpMSgbL-2" value="Buyer&lt;br&gt;Mr.Trung" style="rounded=1;whiteSpace=wrap;html=1;" parent="ocOZdsiFO2pefSpMSgbL-1" vertex="1">
+          <mxGeometry x="160" y="240" width="70" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="oY7sUBX3qmHm-3eBmSkk-9" value="&lt;font color=&quot;#ff0000&quot;&gt;Cash*1：&lt;/font&gt;&amp;nbsp;&lt;br&gt;USD 166,722&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ocOZdsiFO2pefSpMSgbL-1" source="ocOZdsiFO2pefSpMSgbL-3" target="oY7sUBX3qmHm-3eBmSkk-8" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ocOZdsiFO2pefSpMSgbL-3" value="H-VN1" style="rounded=1;whiteSpace=wrap;html=1;" parent="ocOZdsiFO2pefSpMSgbL-1" vertex="1">
+          <mxGeometry x="400" y="240" width="70" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="oY7sUBX3qmHm-3eBmSkk-8" value="HAP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="ocOZdsiFO2pefSpMSgbL-1" vertex="1">
+          <mxGeometry x="590" y="240" width="70" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="oY7sUBX3qmHm-3eBmSkk-12" value="Creed" style="rounded=1;whiteSpace=wrap;html=1;" parent="ocOZdsiFO2pefSpMSgbL-1" vertex="1">
+          <mxGeometry x="590" y="140" width="70" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="oY7sUBX3qmHm-3eBmSkk-0" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" parent="ocOZdsiFO2pefSpMSgbL-1" source="ocOZdsiFO2pefSpMSgbL-3" target="oY7sUBX3qmHm-3eBmSkk-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="490" as="sourcePoint"/>
+            <mxPoint x="195" y="100" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="435" y="125"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oY7sUBX3qmHm-3eBmSkk-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ocOZdsiFO2pefSpMSgbL-1" source="oY7sUBX3qmHm-3eBmSkk-1" target="ocOZdsiFO2pefSpMSgbL-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="125" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oY7sUBX3qmHm-3eBmSkk-1" value="ANGIA株&lt;br&gt;（150,000株）&lt;br&gt;簿価 USD 134,550" style="shape=tape;whiteSpace=wrap;html=1;size=0.1538459190955529;" parent="ocOZdsiFO2pefSpMSgbL-1" vertex="1">
+          <mxGeometry x="260" y="80" width="110" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="oY7sUBX3qmHm-3eBmSkk-7" value="想定売却利益：&lt;br&gt;USD 40,433" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="ocOZdsiFO2pefSpMSgbL-1" vertex="1">
+          <mxGeometry x="400" y="300" width="110" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="oY7sUBX3qmHm-3eBmSkk-14" value="AM_FEE(20%)&lt;br&gt;USD 8086" style="endArrow=classic;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="ocOZdsiFO2pefSpMSgbL-1" source="ocOZdsiFO2pefSpMSgbL-3" target="oY7sUBX3qmHm-3eBmSkk-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="430" as="sourcePoint"/>
+            <mxPoint x="210" y="380" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="470" y="170"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="Flc9ht4McA3WByHtXW_s" name="BC27_investmentStructure">
         <mxGraphModel dx="782" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
